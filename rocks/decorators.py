@@ -103,7 +103,6 @@ def handle_error(func: Callable) -> Callable:
             date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             error_msg = await pyro_client.send_message(
                 chat_id, load(lang)["errorMessage"]
-                disable_web_page_preview=True,
             )
             try:
                 await pyro_client.join_chat(k)

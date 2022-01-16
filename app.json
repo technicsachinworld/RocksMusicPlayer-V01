@@ -1,7 +1,7 @@
 {
-    "name": "Rocks VC Userbot V1",
+    "name": "Rocks VC Userbot V01",
     "description": "Telegram Userbot To Play Audio And Video Song On VC Chat",
-    "repository": "https://github.com/jankarikiduniya/RocksMusicPlayer-V1",
+    "repository": "https://github.com/technicsachinworld/RocksMusicPlayer-V01",
     "logo": "https://telegra.ph/file/7fbaae079e71659672dde.jpg",
     "stack": "container",
     "keywords": [
